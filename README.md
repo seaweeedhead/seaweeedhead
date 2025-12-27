@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/fd/bd/98fdbd68d7fa64875d014331586b61c8.gif" width="300" />
-</p>
+![Awesome GIF](https://i.pinimg.com/originals/a3/74/31/a37431b3199bb9e578174c93bd32e7f3.gif)
+
 
