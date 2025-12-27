@@ -6,5 +6,5 @@
   salmon salmon  
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seaweeedhead&color=gray" alt="">
+  <img src="https://komarev.com/ghpvc/?username=seaweeedhead&color=gray" alt="^^">
 </p>
