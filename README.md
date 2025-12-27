@@ -3,5 +3,8 @@
 </p>
 
 <p align="center">
-  salmon salmon
+  salmon salmon  
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seaweeedhead&color=gray" alt="Profile views">
 </p>
