@@ -1,3 +1,4 @@
-![Cool GIF](https://i.pinimg.com/originals/1c/70/9f/1c709f17bbc2368f789fdfa3449269d8.gif)
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/98/fd/bd/98fdbd68d7fa64875d014331586b61c8.gif" width="300" />
+</p>
 
